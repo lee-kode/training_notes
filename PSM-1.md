@@ -41,3 +41,9 @@ PSM-1
 * New work depends on previous work
 * Customer satisfaction equates to success
 * Increments create _usable value_
+
+# When to use Scrum
+* Many _unknowns_
+* Complex projects with _difficult to define detailed requirements_
+* Don't apply scrum if the organistion is not ready
+* _Training_ is required for all Scrum participants
