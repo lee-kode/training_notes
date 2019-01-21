@@ -96,4 +96,28 @@ PSM-1
     * Daily scrum
     * Sprint review
     * Sprint retrospective
-  
+
+# Scrum Timeline
+
+## Terminology
+* **Product Backlog** is a list of requirements that the product owner will prioritise with the dev team.
+  * All the things that the project can have. Prioritised from most to least important.
+  * Functional and non-functional requirements.
+  * Non-functional requirements: stability, security, uptime. Things you can't touch/feel.
+  * Architecture
+  * Items in the backlog can be assigned _"points"_ (used for sizing).
+* **Product Owner** - represents the customer and key stakeholders (the business)
+  * Prepares the product roadmap
+  * Prepares the user stories
+* **Sprint** - iteration or increment (usually four weeks)
+* **Sprint backlog** - Tasks required for a user story. List of things to accomplish in the sprint.
+* **User stories** - describes requirements. comes from the customer's requirements. Prepared by the product owner.
+* **Daily Scrum** - What was worked on yesterday. What is being worked on today and what impediments we have.
+* **Product increment** - The results of the sprint.
+* **Sprint review** - A demonstration of what has been created in the sprint.
+
+## Pre-sprint Activies
+* Vision Statement - Concise description of the goals of the project
+* Product Roadmap - Visual timeline of major product features to be delivered. Usually prepared by the Product Owner
+* Stories - Requirements prepared by the Product Owner from the customer's requirements
+* Product Backlog - A prioritised list of stories
