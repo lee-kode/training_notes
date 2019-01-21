@@ -106,15 +106,33 @@ PSM-1
   * Non-functional requirements: stability, security, uptime. Things you can't touch/feel.
   * Architecture
   * Items in the backlog can be assigned _"points"_ (used for sizing).
-* **Product Owner** - represents the customer and key stakeholders (the business)
+  * Products have one Product Backlog, regardless of how many teams are used. Any other setup makes it difficult for the Development Team to determine what it should work on.
+  * All Sprint Backlog Items are "owned" by the entire Development Team, even though each one may be implemented by an individual development team member.
+* **Product Owner** - The Product Owner is responsible for maximizing the value of the product and the work of the Development Team.
+  * The Product Owner is the sole person responsible for managing the Product Backlog, which includes that the Product Backlog is visible, transparent, and clear to all, and shows what the Scrum Team will work on next.
+  * represents the customer and key stakeholders (the business)
   * Prepares the product roadmap
   * Prepares the user stories
+
 * **Sprint** - iteration or increment (usually four weeks)
+  * The duration of a Sprint is fixed and cannot be shortened or lengthened.
+  * During the Sprint, scope may be clarified and re-negotiated between the Product Owner and Development Team as more is learned.
+  * The Development Team is responsible for managing the progress of the sprint.
 * **Sprint backlog** - Tasks required for a user story. List of things to accomplish in the sprint.
 * **User stories** - describes requirements. comes from the customer's requirements. Prepared by the product owner.
 * **Daily Scrum** - What was worked on yesterday. What is being worked on today and what impediments we have.
 * **Product increment** - The results of the sprint.
+  * Scrum requires an Increment to be releasable. This is an Increment of product. 
+  * Many teams working on a single product are expected to deliver such an Increment.
+  * The product increment should be usable and releasable at the end of every Sprint, but it does not have to be released.
 * **Sprint review** - A demonstration of what has been created in the sprint.
+* **Scrum Master** - A Scrum Master is a servant-leader for the Development Team. Facilitation and removing impediments serves a team in achieving the best productivity possible.
+  * The Scrum Master ensures that the Development Team has the meeting, but the Development Team is responsible for conducting the Daily Scrum. 
+  * The Scrum Master teaches the Development Team to keep the Daily Scrum within the 15-minute time-box. 
+  * The Scrum Master enforces the rule that only Development Team members participate in the Daily Scrum.
+* **Scrum Team** - The Scrum Team consists of a Product Owner, the Development Team, and a Scrum Master.
+* **Time-box** - Time-boxed events are events that have a maximum duration.
+* **Daily Scrum** - The Daily Scrum is held at the same time and place each day to reduce complexity.
 
 ## Pre-sprint Activies
 * Vision Statement - Concise description of the goals of the project
