@@ -97,9 +97,7 @@ _PSM-1 Exam Prep notes by Lee Engel <lee@kode.co.za>_
     * Sprint review
     * Sprint retrospective
 
-# Scrum Timeline
-
-## Terminology
+# Terminology
 * **Product Backlog** is a list of requirements that the product owner will prioritise with the dev team.
   * All the things that the project can have. Prioritised from most to least important.
   * Functional and non-functional requirements.
@@ -113,8 +111,7 @@ _PSM-1 Exam Prep notes by Lee Engel <lee@kode.co.za>_
   * represents the customer and key stakeholders (the business)
   * Prepares the product roadmap
   * Prepares the user stories
-
-* **Sprint** - iteration or increment (usually four weeks)
+* **Sprint** - iteration or increment (usually 4 weeks)
   * The heart of Scrum is a Sprint, a time-box of one month or less during which a "Done", useable, and potentially releasable product Increment is created. This applies to every Sprint.
   * The duration of a Sprint is fixed and cannot be shortened or lengthened. Ideally 4 weeks.
   * During the Sprint, scope may be clarified and re-negotiated between the Product Owner and Development Team as more is learned.
@@ -124,7 +121,10 @@ _PSM-1 Exam Prep notes by Lee Engel <lee@kode.co.za>_
     * Develop and deliver at least one piece of functionality.
 * **Sprint backlog** - Tasks required for a user story. List of things to accomplish in the sprint.
 * **User stories** - describes requirements. comes from the customer's requirements. Prepared by the product owner.
-* **Daily Scrum** - What was worked on yesterday. What is being worked on today and what impediments we have.
+* **Daily Scrum** - 15 minutes. Dev team only. Three questions: 
+  * What was worked on yesterday? 
+  * What is being worked on today?
+  * what impediments do we have?
 * **Product increment** - The results of the sprint.
   * Scrum requires an Increment to be releasable. This is an Increment of product. 
   * Many teams working on a single product are expected to deliver such an Increment.
@@ -139,6 +139,8 @@ _PSM-1 Exam Prep notes by Lee Engel <lee@kode.co.za>_
 * **Scrum Team** - The Scrum Team consists of a Product Owner, the Development Team, and a Scrum Master.
 * **Time-box** - Time-boxed events are events that have a _maximum_ duration.
 * **Daily Scrum** - The Daily Scrum is held at the same time and place each day to reduce complexity.
+
+# Scrum Timeline
 
 ## Pre-sprint Activities
 * Vision Statement - Concise description of the goals of the project
@@ -158,9 +160,56 @@ _PSM-1 Exam Prep notes by Lee Engel <lee@kode.co.za>_
 * Sprint Retrospective: the Sprint is reviewed the Sprint team for improvements (lessons learned)
 * Sprint Review and Retrospective are held _during_ the Sprint
 
-### Sprint Duration
+## Sprint Duration
 * Risk of being disconnected from stakeholders
 * Ability to go to market with product release
 * Frequency that team composition can be changed
 * All sprints should be the same duration
 * No such thing as "Sprint Zero"
+
+## Sprint Ceremonies
+* Sprint Planning Meeting:
+  * Time-box: **8 hours** for 4-week sprint
+  * Attendees: Entire scrum team (product owner, scrum master, dev team)
+  * Goal: Dev team capacity. Definition of Done. Sprint backlog.
+* Daily Scrum:
+  * Time-box: **15 minute** stand-up
+  * Attendees: Dev team
+  * Goal: Progress. Impediments.
+* Sprint Review Meeting:
+  * Time-box: **4 hours** for 4-week sprint
+  * Attendees: Complete scrum team and stakeholders
+  * Goal: Demo project work and assess feedback
+  * Notes: The _team_ does the demo (not the scrum master)
+* Sprint Retrospective:
+  * Time-box: **3 hours** for a 4-week sprint
+  * Attendees: Complete scrum team
+  * Goal: Brainstorm and agree on what's working and what is not.
+  
+# Scrum Team
+* Scrum Master, Product Owner, Development Team members.
+* Team is self-organised. Manages own efforts.
+* Scrum master does _not_ manage the team.
+* Cross-functional - team members can typically do more than one role.
+* Remove items if work is too much/large or recruit more team members.
+* Customers and users are _stakeholders_
+
+## Product Owner
+* Respresents the business, cusotmers, end-users, etc.
+* This role is for 1 person only.
+* May represent a committee.
+* Well versed in the business.
+* One product owner for the entire project
+* One product backlog for the entire project
+* Product owner can cancel a sprint (not the dev team).
+* Responsible for the Product Backlog
+  * User stories must be easy to understand.
+  * Communicates with customers to keep backlog updated.
+  * Measures performance of the project
+  * Forecasts completion date
+* Entire org should respect the Product Owner's decisions
+* Nobody should try to override the Product Owner's decisions
+* Nobody should try to instruct the development team directly
+* Product Owner might delegate some responsibilities but stays accountable.
+
+
