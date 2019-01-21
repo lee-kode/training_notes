@@ -1,4 +1,4 @@
-PSM-1
+_PSM-1 Exam Prep notes by Lee Engel <lee@kode.co.za>_
 
 # Agile Manifesto
 1. Individuals and interactions over process and tools
@@ -115,8 +115,8 @@ PSM-1
   * Prepares the user stories
 
 * **Sprint** - iteration or increment (usually four weeks)
-  * The heart of Scrum is a Sprint, a time-box of one month or less during which a "Done", useable, and potentially releasable product Increment is created. This applies to every Sprint
-  * The duration of a Sprint is fixed and cannot be shortened or lengthened.
+  * The heart of Scrum is a Sprint, a time-box of one month or less during which a "Done", useable, and potentially releasable product Increment is created. This applies to every Sprint.
+  * The duration of a Sprint is fixed and cannot be shortened or lengthened. Ideally 4 weeks.
   * During the Sprint, scope may be clarified and re-negotiated between the Product Owner and Development Team as more is learned.
   * The Development Team is responsible for managing the progress of the sprint.
   * During **all** sprints the dev team must:
@@ -135,12 +135,32 @@ PSM-1
   * The Scrum Master ensures that the Development Team has the meeting, but the Development Team is responsible for conducting the Daily Scrum. 
   * The Scrum Master teaches the Development Team to keep the Daily Scrum within the 15-minute time-box. 
   * The Scrum Master enforces the rule that only Development Team members participate in the Daily Scrum.
+  * Makes sure the scrum processes is followed intirely and _offer coaching_.
 * **Scrum Team** - The Scrum Team consists of a Product Owner, the Development Team, and a Scrum Master.
-* **Time-box** - Time-boxed events are events that have a maximum duration.
+* **Time-box** - Time-boxed events are events that have a _maximum_ duration.
 * **Daily Scrum** - The Daily Scrum is held at the same time and place each day to reduce complexity.
 
-## Pre-sprint Activies
+## Pre-sprint Activities
 * Vision Statement - Concise description of the goals of the project
 * Product Roadmap - Visual timeline of major product features to be delivered. Usually prepared by the Product Owner
 * Stories - Requirements prepared by the Product Owner from the customer's requirements
 * Product Backlog - A prioritised list of stories
+
+## Sprint Activities
+* Sprint Planning Meeting
+  * Plan what goes into the sprint
+  * Product Owner _prioritises_ requirements and decides on Sprint Backlog contents
+  * Stories make up the Sprint Backlog
+  * The team breaks down stories into _tasks_
+* Team takes ~30 days to deliver the agreed amount of stories
+* Daily Scrum is _15_ minutes
+* Sprint Demo: completed stories are demonstrated to the customer by Sprint Review team.
+* Sprint Retrospective: the Sprint is reviewed the Sprint team for improvements (lessons learned)
+* Sprint Review and Retrospective are held _during_ the Sprint
+
+### Sprint Duration
+* Risk of being disconnected from stakeholders
+* Ability to go to market with product release
+* Frequency that team composition can be changed
+* All sprints should be the same duration
+* No such thing as "Sprint Zero"
