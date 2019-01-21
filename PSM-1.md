@@ -159,6 +159,7 @@ _PSM-1 Exam Prep notes by Lee Engel <lee@kode.co.za>_
 * Sprint Demo: completed stories are demonstrated to the customer by Sprint Review team.
 * Sprint Retrospective: the Sprint is reviewed the Sprint team for improvements (lessons learned)
 * Sprint Review and Retrospective are held _during_ the Sprint
+* A new Sprint starts _immediately_ after the conclusion of the previous Sprint.
 
 ## Sprint Duration
 * Risk of being disconnected from stakeholders
@@ -196,6 +197,7 @@ _PSM-1 Exam Prep notes by Lee Engel <lee@kode.co.za>_
 
 ## Product Owner
 * Respresents the business, cusotmers, end-users, etc.
+* Value optimizer
 * This role is for 1 person only.
 * May represent a committee.
 * Well versed in the business.
@@ -212,4 +214,34 @@ _PSM-1 Exam Prep notes by Lee Engel <lee@kode.co.za>_
 * Nobody should try to instruct the development team directly
 * Product Owner might delegate some responsibilities but stays accountable.
 
+## Scrum Master
+* Fully understands "Scrum"
+* Coaches the team to ensure that all processes are implemented.
+* Scrum Master is a management position which manages the Scrum process but not the Scrum team.
+* Servant-leader of the scrum team.
+* Leads the org in their efforts to adopt Scrum.
+* Removes impediments to the Dev Team.
+* Facilitates events
+* Train/coach the team
+* Helps Product Owner by consulting, communicating and facilitating.
+* Helps those outside the team understand the appropriate interactions with the team
+* Scrum Master should not be part of the dev team.
+* Acts as a shield for the team.
+* Can remove team members that are causing conflict.
+* Keep stakeholders abiding the rules.
+* Serious Impediments;
+  * Alert management to the impediments and their impact
+  * Consult with Dev Team
+  * Prioritise the impediments list and address each in order
+* Scrum Master and Product Owner work together
+
+## Development Team
+* _Experts_ that are responsible for delivering the backlog items and managing their efforts
+* Should have the skills to turn the Product Backlog into an increment of potentially releasable product functionality.
+* Cross-functional. Self-organised.
+* The entire Development Team is responsible and accountable. No individual owns any task.
+* Development Team delivers the final product of the project in increments (Sprints) as per the Product Backlog.
+* Work full-time on a single project.
+* Development Team members should not change often (escpecially during a Sprint).
+* Scrum is effective for a 3 to 9 member dev team.
 
