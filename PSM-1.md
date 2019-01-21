@@ -115,9 +115,13 @@ PSM-1
   * Prepares the user stories
 
 * **Sprint** - iteration or increment (usually four weeks)
+  * The heart of Scrum is a Sprint, a time-box of one month or less during which a "Done", useable, and potentially releasable product Increment is created. This applies to every Sprint
   * The duration of a Sprint is fixed and cannot be shortened or lengthened.
   * During the Sprint, scope may be clarified and re-negotiated between the Product Owner and Development Team as more is learned.
   * The Development Team is responsible for managing the progress of the sprint.
+  * During **all** sprints the dev team must:
+    * Deliver an increment of potentially releasable software.
+    * Develop and deliver at least one piece of functionality.
 * **Sprint backlog** - Tasks required for a user story. List of things to accomplish in the sprint.
 * **User stories** - describes requirements. comes from the customer's requirements. Prepared by the product owner.
 * **Daily Scrum** - What was worked on yesterday. What is being worked on today and what impediments we have.
@@ -126,6 +130,7 @@ PSM-1
   * Many teams working on a single product are expected to deliver such an Increment.
   * The product increment should be usable and releasable at the end of every Sprint, but it does not have to be released.
 * **Sprint review** - A demonstration of what has been created in the sprint.
+  * Sprint review length: 4 hours for a monthly Sprint. For shorter Sprints it is usually shorter.
 * **Scrum Master** - A Scrum Master is a servant-leader for the Development Team. Facilitation and removing impediments serves a team in achieving the best productivity possible.
   * The Scrum Master ensures that the Development Team has the meeting, but the Development Team is responsible for conducting the Daily Scrum. 
   * The Scrum Master teaches the Development Team to keep the Daily Scrum within the 15-minute time-box. 
