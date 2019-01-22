@@ -1,11 +1,15 @@
 # Random PSM-1 Notes
 
-* Gantt Chart is not a Scrum artifact and not compatible with the framework.
+## Product Backlog Refinement
+* If multiple teams are working on the project, they will participate in the refinement as well. 
+* Refinement can take any amount of time from the Product Owner
+* Not more than 10% of the capacity of the Development Team. 
+* Refinement is a continuous activity not limited to a certain time during the Sprint. 
+* The Scrum Master only facilitates the meetings as requested or required; not by default.
 
-* If multiple teams are working on the project, they will participate in the refinement as well. Refinement can take 
-any amount of time from the Product Owner but not more than 10% of the capacity of the Development Team. Refinement is 
-a continuous activity not limited to a certain time during the Sprint. The Scrum Master only facilitates the meetings 
-as requested or required; not by default.
+
+## Random Topics
+* Gantt Chart is not a Scrum artifact and not compatible with the framework.
 
 * Designing the software is part of the development and should be done by the developers. They are self-organized and make technical decisions and volunteer for tasks (assign them to themselves). Estimation is the responsibility of the developers because they are the people who will develop the item.
 
