@@ -7,6 +7,10 @@
 * Refinement is a continuous activity not limited to a certain time during the Sprint. 
 * The Scrum Master only facilitates the meetings as requested or required; not by default.
 
+## Definition of Done
+* Which event is the most appropriate for discussing or updating the definition of "Done"? During Sprint Retrospective.
+* The Development Team owns the DoD (Definition of Done).
+* 
 
 ## Random Topics
 * The Development Team owns the Sprint Backlog and the Product Owner owns the Product Backlog.
@@ -95,3 +99,7 @@
 * **If it's not possible to complete the Sprint Backlog, who would try to resolve it?** _The Development Team and the Product Owner_
 
 * **The Product Owner is responsible for preparing the Sprint Goal before the Sprint Planning?** FALSE. The Sprint Goal is prepared during the Sprint Planning by the _whole Scrum Team._
+
+* **A Sprint is considered successful when an increment is released to production?** FALSE.
+
+* **Using Scrum ensures that all resources on a project will be utilised in the most efficient way?** FALSE.
