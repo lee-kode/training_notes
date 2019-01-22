@@ -17,7 +17,7 @@ _PSM-1 Exam Prep notes by Lee Engel <lee@kode.co.za>_
 * Agile projects need to deliver _value_
 * _Value_ is about a business need to deliver
 * Documentation should be _barely sufficient_
-* Documentation is delivered in a **JIT** (just in time)
+* Documentation is delivered in a **JIT** fashion (just in time)
 * Documentation is delivered at the _last responsible moment_
 
 ## Customer collaboration over contract negotiation
@@ -189,6 +189,8 @@ _PSM-1 Exam Prep notes by Lee Engel <lee@kode.co.za>_
   
 # Scrum Team
 * Scrum Master, Product Owner, Development Team members.
+* No other roles than 3 mentioned.
+* There is no "project manager" role. Those responsibilities are shared.
 * Team is self-organised. Manages own efforts.
 * Scrum master does _not_ manage the team.
 * Cross-functional - team members can typically do more than one role.
@@ -245,3 +247,31 @@ _PSM-1 Exam Prep notes by Lee Engel <lee@kode.co.za>_
 * Development Team members should not change often (escpecially during a Sprint).
 * Scrum is effective for a 3 to 9 member dev team.
 
+### Self-organising Development Team
+* Boost to creativity
+* Team and project committment
+* Accuracy of estimates
+* New teams starting a project:
+  * Scrum master to ensure the team understands the rules of Scrum and the DoD (definition of done)
+  * Each team member introduce themselves and give brief background of the skills and work history
+  * Product Owner discusses the project, product, history, goals and context. Answers any quetions.
+
+### Development Team Considerations
+* Bring the team together and let them self-organise
+* Existing teams can decide how they want to self-organise
+* Multiple Scrum Teams:
+  * Large projects can use a scaled model
+  * Multiple scrum teams are _not_ common
+  * Adding new teams won't affect current productivity
+  * Teams should be self-forming based on Vision and Scrum rules
+  * All teams need a _common_ Defition of Done (DoD)
+  * All teams should have same Sprint start date
+  * 1 Prouct Owner and 1 Product Backlog
+  
+### Definition of Done
+* Development team should deliver additional _features_ in a _useable_ state that _compliment_ those delivered in previous iterations.
+* You cannot break what has already been done.
+* If the team _can't_ finish all Spring Backlog items:
+  * They do not include the items in the current Spring increment
+  * They do not show it in the Sprint Review
+  * Must be returned to the Product Backlog for the Product Owner to decide what to do
