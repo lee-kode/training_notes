@@ -9,21 +9,26 @@
 
 
 ## Random Topics
+* The Development Team owns the Sprint Backlog and the Product Owner owns the Product Backlog.
+* The Development Team owns the Sprint Backlog
+* The Development Team owns the DoD (Definition of Done).
+* The Product Owner owns the Product Backlog.
+
 * Gantt Chart is not a Scrum artifact and not compatible with the framework.
 
 * Designing the software is part of the development and should be done by the developers. They are self-organized and make technical decisions and volunteer for tasks (assign them to themselves). Estimation is the responsibility of the developers because they are the people who will develop the item.
 
-* **When is it time for integrating the solution?** Integration is part of the development of each item and a step in a normal definition of "Done". Agile projects use continuous integration to make the output potentially releasable.
+* **When is it time for integrating the solution?** During the Sprint. Integration is part of the development of each item and a step in a normal definition of "Done". Agile projects use continuous integration to make the output potentially releasable.
 
-* This is up to the developers to identify how to accomplish the goal. After all, they are the technical people in the project.The question is about the Sprint Backlog tasks, rather than items.
+* **The Sprint Backlog makes visible all of the work the _DEVELOPMENT TEAM_ identifies as necessary to meet the Sprint Goal.** This is up to the developers to identify how to accomplish the goal. After all, they are the technical people in the project.The question is about the Sprint Backlog tasks, rather than items.
 
-* **Who monitors the remaining work of the Product Backlog?** The Product Owner is responsible for measuring the progress of the project and tracking the remaining work in the Product Backlog.The Development Team is responsible for measuring the progress of the Sprint and tracking the remaining work in the Sprint Backlog.
+* **Who monitors the remaining work of the Product Backlog?** The _Product Owner_ is responsible for measuring the progress of the project and tracking the remaining work in the Product Backlog.The Development Team is responsible for measuring the progress of the Sprint and tracking the remaining work in the Sprint Backlog.
 
-* **Who can change the Sprint Backlog in the middle of the Sprint?** The Product Backlog items selected for the Sprint do not change but the Sprint Backlog also contains tasks and tasks evolve through the Sprint. The Development Team owns the Sprint Backlog and only they can change the Sprint Backlog. This is sometimes done based on the input from the Product Owner.
+* **Who can change the Sprint Backlog in the middle of the Sprint?** _The Development Team._ The Product Backlog items selected for the Sprint do not change but the Sprint Backlog also contains tasks and tasks evolve through the Sprint. The Development Team owns the Sprint Backlog and only they can change the Sprint Backlog. This is sometimes done based on the input from the Product Owner.
 
-* We prefer to have "ready" items at the top of the Product Backlog before Sprint Planning, which is done through Product Backlog refinement. However, nothing stops our flow of Sprints. For example, we do not delay the Sprint because the items are not ready. In such cases, the "unready" items would be selected for the Sprint and refined during the Sprint."Ready" items are those that are clear and small enough to fit into one Sprint.
+* **Which of the following is a prerequisite for starting the Sprint Planning meeting?** _None._ We prefer to have "ready" items at the top of the Product Backlog before Sprint Planning, which is done through Product Backlog refinement. However, nothing stops our flow of Sprints. For example, we do not delay the Sprint because the items are not ready. In such cases, the "unready" items would be selected for the Sprint and refined during the Sprint."Ready" items are those that are clear and small enough to fit into one Sprint.
 
-* The Development Team owns the Sprint Backlog and the Product Owner owns the Product Backlog.
+* **Velocity** - the average amount of work done per Sprint
 
 * When there's one product, there should be only one Product Owner, even if the product is large and there are many Development Teams. However, when there are multiple products, there are two options:a) considering them separate and have a Product Owner for each of themb) have only one Product Owner for all of them and develop them like a larger project to ensure compatibility.
 
@@ -86,3 +91,7 @@
 * **What happens when the Product Backlog is not clear enough at Sprint Planning?** Nothing. The sprint would be planned anyway. We prefer to have "ready" items at the top of the Product Backlog before Sprint Planning, which is done through Product Backlog refinement. However, nothing stops our flow of Sprints, for example, we do not delay the Sprint because the items are not ready. In such cases, the "unready" items would be selected for the Sprint anyway and refined during the Sprint. "Ready" items are those that are clear and small enough to fit into one Sprint.
 
 * **It's required to use user stories in Scrum?** FALSE. It's a good idea to use user stories for describing the Product Backlog items but it's not required.
+
+* **If it's not possible to complete the Sprint Backlog, who would try to resolve it?** _The Development Team and the Product Owner_
+
+* **The Product Owner is responsible for preparing the Sprint Goal before the Sprint Planning?** FALSE. The Sprint Goal is prepared during the Sprint Planning by the _whole Scrum Team._
