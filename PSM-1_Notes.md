@@ -20,6 +20,12 @@
 
 * Gantt Chart is not a Scrum artifact and not compatible with the framework.
 
+* **It is forecasted that the project will be over in 4 Sprints. The Product Owner wants to design acceptance tests for all items. What's the best response from the Scrum Master?** It is _not_ necessary. Scrum doesn't use upfront planning and design and what's described in this question is a form of upfront preparation.
+
+* **Scrum is a lightweight development methodology?** FALSE. Scrum is referred to as a "framework" rather than a "methodology".
+
+* **Which of the following are optional in Scrum? (choose 2 answers)** - Velocity and Release Plan
+
 * Designing the software is part of the development and should be done by the developers. They are self-organized and make technical decisions and volunteer for tasks (assign them to themselves). Estimation is the responsibility of the developers because they are the people who will develop the item.
 
 * **When is it time for integrating the solution?** During the Sprint. Integration is part of the development of each item and a step in a normal definition of "Done". Agile projects use continuous integration to make the output potentially releasable.
