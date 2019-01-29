@@ -109,3 +109,15 @@
 * **A Sprint is considered successful when an increment is released to production?** FALSE.
 
 * **Using Scrum ensures that all resources on a project will be utilised in the most efficient way?** FALSE.
+* **When multiple Scrum teams are working on the same product, should all of their outputs be integrated every Sprint?** YES.
+
+* **Which of the following best describes transparency?** "significant aspects" 
+
+* **Each Development Team member should be cross-functional.** FALSE. The entire development team as a whole should be cross-functional. Not every single member has to be.
+
+* **Who supports the Scrum Master in removing impediments?** The development team + Senior management.
+
+* **When should Increments be shipped?** When it makes sense.
+
+* End-users are the most important stakeholders.
+
