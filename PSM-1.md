@@ -211,6 +211,7 @@ _PSM-1 Exam Prep notes by Lee Engel <lee@kode.co.za>_
   * Communicates with customers to keep backlog updated.
   * Measures performance of the project
   * Forecasts completion date
+  * Responsible for prioritising backlog
 * Entire org should respect the Product Owner's decisions
 * Nobody should try to override the Product Owner's decisions
 * Nobody should try to instruct the development team directly
@@ -246,6 +247,7 @@ _PSM-1 Exam Prep notes by Lee Engel <lee@kode.co.za>_
 * Work full-time on a single project.
 * Development Team members should not change often (escpecially during a Sprint).
 * Scrum is effective for a 3 to 9 member dev team.
+* Responsible for estimating items
 
 ### Self-organising Development Team
 * Boost to creativity
